@@ -1,0 +1,21 @@
+body{
+    font-family: 'popins', sans-serif;
+}
+h1{
+    font-size: 40px;
+}
+.name-highlight{
+    color:orange;
+}
+.half-width{
+    width: 700px;
+    float:left;
+    margin-left: 5px;
+    padding-left:2px;
+}
+.half-width img{
+     width: 500px;
+     margin-left:200px;
+     
+     
+}
